@@ -15,11 +15,11 @@ urls:
     - text: Blog
       url: /blog
     - text: Gallery
-      url: /gallery
+    - url: /gallery
     - text: Shop
-      url : /shop
+    - url : /shop
     - text: Contact
-      url : /contact
+    - url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
