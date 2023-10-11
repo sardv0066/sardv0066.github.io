@@ -9,6 +9,7 @@ thumbnail: /assets/img/posts/code.jpg
 keywords: areum
 usemathjax: true
 permalink: /blog/added-first/
+comments: true
 ---
 
 ## You can now use LaTex to write equations :
